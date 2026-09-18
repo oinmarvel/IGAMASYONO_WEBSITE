@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Large local images (simpan di lokal saja, jangan di-push ke GitHub)
+assets/images/*.JPG
+assets/images/*.jpeg
+public/images/*.JPG
+public/images/*.jpeg
+public/images/IMG_*
