@@ -35,7 +35,7 @@ export const menuItems: MenuItem[] = [
     name: "Iga Bakar",
     description: "Iga sapi empuk dengan bumbu bakar khas Warung Iga Mas Yono, gurih, meresap, dan menggugah selera.",
     price: 38000,
-    image: "/images/igabakar.jpg",
+    image: "/images/igabakar.JPG",
     category: "iga bakar",
     isBestSeller: true,
     isAvailable: true,
