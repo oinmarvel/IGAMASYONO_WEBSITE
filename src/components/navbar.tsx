@@ -63,7 +63,7 @@ export default function Navbar() {
           className="font-display text-[32px] leading-[40px] font-medium tracking-tighter text-iga-primary flex items-center gap-3 hover:opacity-90 transition-opacity"
         >
           <Image
-            src="/images/logo.svg"
+            src="/images/logo.png"
             alt="Warung Iga Mas Yono Logo"
             width={40}
             height={40}

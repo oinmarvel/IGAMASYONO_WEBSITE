@@ -47,7 +47,7 @@ export default function StorySection() {
 
             <div className="pt-4">
               <Image
-                src="/images/logo.svg"
+                src="/images/logo.png"
                 alt="Iga Mas Yono Signature"
                 width={64}
                 height={64}
