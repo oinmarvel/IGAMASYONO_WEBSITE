@@ -15,7 +15,7 @@ export default function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://lh3.googleusercontent.com/aida/ADBb0uh6o54Rfr5us3udHecGeKqaNPZz66gXl86Vvw_bNj5h6AtSzjDzS0MDiYpLlt9dfzqIbk5T2_52worj29Ln8Ps8pB6QvWozzCFwLcOKP5X4QVVqXGbKDgAipBZ2dw2aZ1xm1gNx5zeYaPSnswJkKc33BxaeLB9HhM1dqmUgLr4MK3bpiJwiSdZnNIhcyEGMy6njZyHPcGRR0vBpOln7xIdTF4EaKwo0AleYGL8-hBaakC7xEDziXB-iTw"
+          src="/images/hero.jpg"
           alt="Iga Bakar Premium - Hero background"
           fill
           className="object-cover object-center"
