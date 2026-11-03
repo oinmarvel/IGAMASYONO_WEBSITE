@@ -9,7 +9,7 @@ export default function StorySection() {
           <div className="relative aspect-[3/4] w-full max-w-md mx-auto lg:mx-0">
             <div className="absolute inset-0 border border-brand-red/30 translate-x-4 translate-y-4 rounded-lg" />
             <Image
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuBpdQbBJrwO9UE1bpRsgRBeXUKcNN-trli8_Wdf6Obkdw78_FH9hZOZNFlhzc8VTuE9i4BKMWggMdLcOWTVNZ95f43BX5AZaM3R7P4f6EDZDmxFWpGl1osQfNtmC4RvTXWvDoJu8nHOAWnQWKgMqGQ4IXZC7XGBwgO57VtMOvPePFLGjCus4Jl1XVV1ojKcF3FXSmaN7aHtAUM82DsZ8_HmU11J44Lh5nMIXyCtrd5ENaJSeslonE4xpDo1cdSyVMrLBXWZ1vOS4A"
+              src="/images/story-chef.png"
               alt="Chef preparing premium grilled ribs"
               fill
               className="object-cover rounded-lg shadow-lg"
@@ -47,7 +47,7 @@ export default function StorySection() {
 
             <div className="pt-4">
               <Image
-                src="https://lh3.googleusercontent.com/aida/ADBb0uge3KU5_La04EmPfIaKOrb2gcSdp4lUnbTBt4f8sEww0VjDEe4_Wv2T2G6J7BnTlqfW0ckUY615O9mFY4LWlOUXIsOtifuXPXZts12BdOGNVLqUoy_wb3FytFAljfM3_LPM9o0rJPukhSfiBoRj6Dt90HezWzYqV_R0LIHlySyWaTIHwz6iRnwrDTIm1qqniGZ5ePbqttPQzP5XGKCyIKjRwsS5h31Sb23n7CTGgiRLWRbU9h4AwToKpw"
+                src="/images/logo.svg"
                 alt="Iga Mas Yono Signature"
                 width={64}
                 height={64}

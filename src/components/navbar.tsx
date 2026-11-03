@@ -63,13 +63,13 @@ export default function Navbar() {
           className="font-display text-[32px] leading-[40px] font-medium tracking-tighter text-iga-primary flex items-center gap-3 hover:opacity-90 transition-opacity"
         >
           <Image
-            src="https://lh3.googleusercontent.com/aida/ADBb0uge3KU5_La04EmPfIaKOrb2gcSdp4lUnbTBt4f8sEww0VjDEe4_Wv2T2G6J7BnTlqfW0ckUY615O9mFY4LWlOUXIsOtifuXPXZts12BdOGNVLqUoy_wb3FytFAljfM3_LPM9o0rJPukhSfiBoRj6Dt90HezWzYqV_R0LIHlySyWaTIHwz6iRnwrDTIm1qqniGZ5ePbqttPQzP5XGKCyIKjRwsS5h31Sb23n7CTGgiRLWRbU9h4AwToKpw"
+            src="/images/logo.svg"
             alt="Warung Iga Mas Yono Logo"
             width={40}
             height={40}
-            className="rounded-md object-contain"
+            className="rounded-full object-contain shrink-0"
           />
-          <span className="hidden sm:inline">IGA MAS YONO</span>
+          <span className="font-display text-xl sm:text-2xl md:text-[32px] tracking-tight">IGA MAS YONO</span>
         </a>
 
         {/* Desktop Navigation */}
